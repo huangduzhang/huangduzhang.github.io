@@ -1,5 +1,5 @@
 baseURL: https://huangduzhang.github.io
-languageCode: en-us
+languageCode: zh
 title: 黄渡张同学
 theme: mini
 publishDir: docs
@@ -35,20 +35,20 @@ markup:
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
-  github: your-github-link
-  twitter: your-github-link
-  stackoverflow: your-github-link
+  github: https://github.com/huangduzhang
+  twitter: https://twitter.com/huangduzhang
+  #stackoverflow: your-github-link
   # facebook: your-facebook-link
 
 
 # Site parameters
 params:
   # Site Author
-  author: Author
+  author: 黄渡张同学
   # Author biography
-  bio: Software Engineer
+  #bio: 自由的灵魂、软件工程师、写作手
   # Site Description, used in HTML meat
-  description: My Blog
+  #description: My Blog
 
 
   ###########################################
